@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rasna-k
+- 👋 Hi, I’m @Rasleen-kaur
 - 👀 I’m interested in internships
-- 📚 I’m currently learning BTECH in Computer Science (Btech 2st year)
+- 📚 I’m currently learning BTECH in Computer Science (Btech 2nd year)
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me -  rasleenk15@gmail.com 
 
